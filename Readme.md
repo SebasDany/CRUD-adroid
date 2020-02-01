@@ -2,7 +2,8 @@
 
 # agregar esos modulos en la carpeta:
 
-build.grade(module:app)
+# build.grade(module:app)
 
  implementation 'com.squareup.retrofit2:retrofit:2.5.0'
-    implementation 'com.squareup.retrofit2:converter-gson:
+
+ implementation 'com.squareup.retrofit2:converter-gson:2.5.0'
