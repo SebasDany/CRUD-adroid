@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_ver_usuario">ver_usuario</string>
+
+    <string-array name="preservation_options">
+        <item>Docente</item>
+        <item>Estudiante</item>
+
+    </string-array>
+    <string name="preservation_prompt">Seleccione</string>
+</resources>
